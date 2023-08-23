@@ -11,7 +11,8 @@ const Projects = () => {
     { 
       title: 'Feedback', 
       description: 'We have developed a school project that enables users to provide feedback. The project is constructed using React and includes JSON Server, React Context, and React Router DOM. Within the website, users can submit their comments and ratings. The project provides a platform for users to share their thoughts',
-      link: 'https://github.com/Alex-Ptpv/secondapp'
+      link: 'https://github.com/Alex-Ptpv/secondapp',
+      video: 'https://ooo.mmhmm.app/z_LyXE1PYEc1x1xhXO8CxO'
     },
   ];
 
